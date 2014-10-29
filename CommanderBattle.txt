@@ -1,0 +1,12 @@
+"CommanderBattle"
+{
+	"base"		"base"
+	"title"		"Commander Battle"
+	"maps"		"^dm"
+	"menusystem"	"1"
+
+	"settings"
+	{
+		// TODO: put some settings here
+	}
+}
